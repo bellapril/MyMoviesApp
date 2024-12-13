@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="search_movies">Search for movies...</string>
+
+    <!-- Movie categories for Spinner -->
+    <string-array name="movie_categories">
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Upcoming</item>
+        <item>Now Playing</item>
+    </string-array>
+</resources>
